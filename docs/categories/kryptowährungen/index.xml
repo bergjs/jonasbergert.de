@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kryptowährungen on Jonas Bergert</title>
-    <link>./categories/kryptow%C3%A4hrungen/</link>
+    <link>https://jonasbergert.de/categories/kryptow%C3%A4hrungen/</link>
     <description>Recent content in Kryptowährungen on Jonas Bergert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 28 Nov 2017 19:00:00 +0200</lastBuildDate>
     
-	<atom:link href="./categories/kryptow%C3%A4hrungen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonasbergert.de/categories/kryptow%C3%A4hrungen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wie man sicher Bitcoin kauft und aufbewahrt</title>
-      <link>./blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</link>
+      <link>https://jonasbergert.de/blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</link>
       <pubDate>Tue, 28 Nov 2017 19:00:00 +0200</pubDate>
       
-      <guid>./blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</guid>
+      <guid>https://jonasbergert.de/blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</guid>
       <description>Bitcoin kaufen Der Kauf von Bitcoin mit Fiatgeld (oder auch &amp;ldquo;Echtgeld&amp;rdquo;), wie z.B. Euro, erfolgt in der Regel über Exchanges (Börsen) die sich auf Kryptowährungen spezialisiert haben. Davon gibt es mittlerweile eine ganze Menge, so dass die Wahl nicht leicht fällt. Ich gebe hier nur zwei Empfehlungen um die Wahl etwas zu vereinfachen.
 Coinbase Coinbase ist einer der größten Anbieter auf dem Markt mit Sitz in den USA. Die Anmeldung ist einfach und die Oberfläche sehr übersichtlich gestaltet.</description>
     </item>
