@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jonasbergert.com/blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.com/about/</loc>
+    <lastmod>2017-11-28T16:33:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.com/blog/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.com/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.com/categories/kryptow%C3%A4hrungen/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
