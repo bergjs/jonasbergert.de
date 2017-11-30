@@ -10,14 +10,5 @@
 	<atom:link href="https://jonasbergert.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Kryptowährungen</title>
-      <link>https://jonasbergert.de/categories/kryptow%C3%A4hrungen/</link>
-      <pubDate>Tue, 28 Nov 2017 19:00:00 +0200</pubDate>
-      
-      <guid>https://jonasbergert.de/categories/kryptow%C3%A4hrungen/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
