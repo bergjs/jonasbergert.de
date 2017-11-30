@@ -41,7 +41,7 @@ lang                   = "en"
 linkedin               = "//www.linkedin.com/in/jonas-bergert"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = "Startups & Innovation"                            # appears in the site header when set to a non-empty string
-twitter                = "//twitter.com/you"
+twitter                = "//twitter.com/bergjs"
 mastodon               = ""
 
 highlightjs            = true

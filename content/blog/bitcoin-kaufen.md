@@ -2,7 +2,7 @@
 title:  "Wie man sicher Bitcoin kauft und aufbewahrt"
 date:   2017-11-28 19:00:00 +0200
 categories: Kryptowährungen
-draft: false
+draft: true
 ---
 
 
@@ -26,11 +26,18 @@ BitPanda ist ein österreichischer Anbieter, der es ähnlich einfach macht Bitco
 
 # Bitcoin aufbewahren
 
-Hat man erfolgreich Bitcoins erstanden sollte man sie möglichst in eine eigene Wallet transferieren. Damit reduziert man das Risiko, dass man seine Coins durch Probleme bei der Exchange verliert. Das können z.B. Sicherheitslücken sein die durch Hacker ausgenutzt werden. Dabei werden die Bitcoins nicht physikalisch in der eigenen Wallet gespeichert, es ist vielmehr der Schlüssel zu den eigenen Bitcoins 
+Hat man erfolgreich Bitcoins erstanden sollte man sie möglichst in eine eigene Wallet transferieren. Damit reduziert man das Risiko, dass man seine Coins durch Probleme bei der Exchange verliert. Das können z.B. Sicherheitslücken sein die durch Hacker ausgenutzt werden. Bei einer Wallet werden die Bitcoins nicht physikalisch in der eigenen Wallet gespeichert, es ist vielmehr der Schlüssel zu den eigenen Bitcoins im Bitcoin-Netzwerk. 
 
-Um seine Bitcoins zu schützen sollte man eine Wallet NIE auf einem normalen Computer nutzen, egal ob Windows-PC oder Apple. Diese Computer sind einfach viel zu angreifbar. Besser ist es eine Wallet-App auf einem modernen Smartphone zu installieren. Die Betriebssysteme von Smartphones sind deutlich sicherer, weil sie Programme strickt voneinander trennen und somit z.B. den Zugriff von einem schädlichen Programm auf die Wallet-App verhindern. Auch hier gibt es viele Möglichkeiten, ich habe verschiedene ausprobiert und stelle hier zwei Empfehlungen vor.
+_Es gilt die Regel: "Dein Schüssel, dein Geld. Nicht dein Schlüssel, nicht dein Geld."._
 
-## Die richte Wallet-App
+Wenn man also den Schlüssel über seine Bitcoins jemand anderem (z.B. einer Exchange) überlässt, sollte man sich nicht wundern wenn das Geld irgendwann weg ist.
+
+## Wallets nicht auf Computern nutzen, sondern auf Smartphones
+
+Um kein Risiko einzugehen, sollte man eine Wallet NIE auf einem normalen Computer nutzen, egal ob Windows-PC oder Apple. Diese Computer sind einfach viel zu angreifbar. Besser ist es eine Wallet-App auf einem modernen Smartphone zu installieren. Die Betriebssysteme von Smartphones sind deutlich sicherer, weil sie Programme strickt voneinander trennen und somit z.B. den Zugriff von einem schädlichen Programm auf die Wallet-App verhindern. Auch hier gibt es viele Möglichkeiten, ich habe verschiedene ausprobiert und stelle hier zwei Empfehlungen vor.
+
+
+## Die richtige Wallet-App
 
 Um die größten Risiken auszuräumen waren mir bei der Auswahl der Apps zwei Dinge wichtig:
 
@@ -42,7 +49,7 @@ Um die größten Risiken auszuräumen waren mir bei der Auswahl der Apps zwei Di
 
 - **BitPay** bietet eine simple App an mit der man eine Wallet für Bitcoin erzeugen kann. [https://bitpay.com/wallet](https://bitpay.com/wallet)
 
-- **Jaxx** ist eine Multi-Wallet, d.h. neben Bitcoin unterstützt sie noch eine Reihe von anderen Kryptowährungen. [https://jaxx.io/](https://jaxx.io/downloads.html)
+- **Jaxx** ist eine Multi-Wallet, d.h. neben Bitcoin unterstützt sie noch eine Reihe von anderen Kryptowährungen, z.B. Ether. [https://jaxx.io/](https://jaxx.io/downloads.html)
 
 Die Einrichtung der Wallets ist ziemlich einfach, da man von der App durch den Prozess geführt wird. 
 
@@ -55,5 +62,11 @@ Dieses Papier mit der Passphrase sollte man einem möglichst sicheren Ort aufbew
 
 ## Bitcoins transferieren
 
-Um die Bitcoins von der Exchange in die eigene Wallet zu transferieren
+Um die Bitcoins von der Exchange in die eigene Wallet zu transferieren eine von der Wallet generierte Adresse, die man dann bei der Exchange als Ziel des Transfers eingibt. Dieser Schritt ist auch eine gute Möglichkeit all sein Geld zu verlieren, man sollte also vorsichtig vorgehen! Zum Beispiel sollte man nie versuchen die Adresse irgendwo abzutippen, sondern immer kopieren oder mittels QR-Code einscannen. Wenn man sich unsicher ist kann man auch erst einmal einen kleinen Betrag transferieren um bei Erfolg dann den Rest zu schicken. 
+
+Auf der empfangenden Wallet sollte man nach einigen Minuten sehen können, dass sich Transfervorgang abspielt, auch wenn er evtl. noch nicht abgeschlossen ist. Abgeschlossen ist der Vorgang erst wenn genügend Teilnehmer aus dem Bitoin-Netz den Transfer bestätigt haben.
+
+Bitcoins zu transferieren ist auf jeden Fall spannend!
+
+
 _* bei diesen Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke!)_
