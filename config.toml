@@ -1,4 +1,4 @@
-baseurl             = "./"
+baseurl             = "https://jonasbergert.de/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -21,12 +21,6 @@ name                   = "Startseite"
 weight                 = -120
 identifier             = "start"
 url                    = "/"
-
-[[menu.main]]
-name                   = "Über mich"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
 
 
 [params]
