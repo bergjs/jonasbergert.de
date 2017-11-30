@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jonas Bergert</title>
-    <link>https://jonasbergert.com/categories/</link>
+    <link>./categories/</link>
     <description>Recent content in Categories on Jonas Bergert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://jonasbergert.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kryptowährungen</title>
-      <link>https://jonasbergert.com/categories/kryptow%C3%A4hrungen/</link>
+      <link>./categories/kryptow%C3%A4hrungen/</link>
       <pubDate>Tue, 28 Nov 2017 19:00:00 +0200</pubDate>
       
-      <guid>https://jonasbergert.com/categories/kryptow%C3%A4hrungen/</guid>
+      <guid>./categories/kryptow%C3%A4hrungen/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Jonas Bergert</title>
-    <link>https://jonasbergert.com/blog/</link>
+    <link>./blog/</link>
     <description>Recent content in Blog on Jonas Bergert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 28 Nov 2017 19:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://jonasbergert.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wie man sicher Bitcoin kauft und aufbewahrt</title>
-      <link>https://jonasbergert.com/blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</link>
+      <link>./blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</link>
       <pubDate>Tue, 28 Nov 2017 19:00:00 +0200</pubDate>
       
-      <guid>https://jonasbergert.com/blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</guid>
+      <guid>./blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</guid>
       <description>Bitcoin kaufen Der Kauf von Bitcoin mit Fiatgeld (oder auch &amp;ldquo;Echtgeld&amp;rdquo;), wie z.B. Euro, erfolgt in der Regel über Exchanges (Börsen) die sich auf Kryptowährungen spezialisiert haben. Davon gibt es mittlerweile eine ganze Menge, so dass die Wahl nicht leicht fällt. Ich gebe hier nur zwei Empfehlungen um die Wahl etwas zu vereinfachen.
 Coinbase Coinbase ist einer der größten Anbieter auf dem Markt mit Sitz in den USA. Die Anmeldung ist einfach und die Oberfläche sehr übersichtlich gestaltet.</description>
     </item>
