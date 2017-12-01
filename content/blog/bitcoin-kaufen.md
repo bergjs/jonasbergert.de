@@ -70,4 +70,4 @@ Bitcoins zu transferieren ist auf jeden Fall spannend!
 
 
 
-_ bei den mit * markierten Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke!)_
+_bei den mit * markierten Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke!)_
