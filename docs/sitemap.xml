@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jonasbergert.de/blog/wie-man-sicher-bitcoin-kauft-und-aufbewahrt/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.de/blog/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jonasbergert.de/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jonasbergert.de/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasbergert.de/categories/kryptow%C3%A4hrungen/</loc>
+    <lastmod>2017-11-28T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
