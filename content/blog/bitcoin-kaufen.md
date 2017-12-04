@@ -45,7 +45,7 @@ Um die größten Risiken auszuräumen waren mir bei der Auswahl der Apps zwei Di
 - die App zwingt den Nutzer dazu die Passphrase, die als Backup zur Wiederherstellung dient, aufzuschreiben und zu bestätigen.
 
 
-### Meine Empfehlungen
+### Software Wallets für Smartphones
 
 - **BitPay** bietet eine simple App an mit der man eine Wallet für Bitcoin erzeugen kann. [https://bitpay.com/wallet](https://bitpay.com/wallet)
 
@@ -53,21 +53,36 @@ Um die größten Risiken auszuräumen waren mir bei der Auswahl der Apps zwei Di
 
 Die Einrichtung der Wallets ist ziemlich einfach, da man von der App durch den Prozess geführt wird. 
 
+### Hardware Wallets
+
+Wenn man auf Nummer sicher gehen möchte, dann empfiehlt sich eine so genannte Hardware-Wallet. Ein solches Gerät speichert den Schlüssel zu den eigenen Bitcoins auf einem speziellen Chip. Eine Transaktion lässt sich damit nur durchführen, wenn man sie auf dem Gerät direkt bestätigt. Das heißt, dass niemand per Schadsoftware über das Internet die Bitcoins stehlen kann, selbst wenn der Computer oder das Smartphone eine Sicherheitslücke haben. 
+
+![Ledger Nano S Hardware Wallet](https://www.ledgerwallet.com/images/products/lns/ledger-nano-s-plug-large.png#center)
+<p style="text-align: center;">*Eine Hardware Wallet*</p>
+
+Hierbei empfehle ich die [Ledger Wallet Nano S](https://www.ledgerwallet.com/r/f672), eine simple Hardware-Wallet, die es schon für ca. 80€ gibt. Der Versand aus Frankreich geht mittlerweile auch eingermaßen schnell. 
+
+
+
 ## Die Sicherheitskopie der Wallet aufbewahren
 
-Die beim Erstellen einer Wallet angezeigte Passphrase besteht in der Regel aus 12 bis 24 Wörtern, welche man auf ein Stück Papier schreibt. Dabei sollte man unbeobachtet sein und sich konzentrieren, damit man keine Fehler macht. Dieses Stück Papier ermöglicht es einem nämlich bei Verlust des Smartphones oder bei Verlust der App die Wallet und damit den Zugriff auf die eigenen Bitcoins wiederherzustellen. 
+Ob Wallet-App oder Hardware-Wallet, beim ersten Einrichten sollte man immer sicherstellen, dass man direkt eine Sicherung der Wallet anlegt. Das geschieht mit einer Passphrase, in der Regel 12 bis 24  Wörtern, die einem angezeigt werden und welche man auf ein Stück Papier schreibt. Dabei sollte man unbeobachtet sein und sich konzentrieren, damit man keine Fehler macht. Dieses Stück Papier ermöglicht es einem nämlich bei Verlust oder Zerstörung der Wallet, den Zugriff auf die eigenen Bitcoins wiederherzustellen. 
 
 Dieses Papier mit der Passphrase sollte man einem möglichst sicheren Ort aufbewahren, denn jeder der Zugang dazu hat, kann die Wallet auf einem anderen Gerät wiederherstellen und die damit verbundenen Coins transferieren. 
 
 
 ## Bitcoins transferieren
 
-Um die Bitcoins von der Exchange in die eigene Wallet zu transferieren, nimmt man die von der Wallet generierte Adresse, die man dann bei der Exchange als Ziel des Transfers eingibt. Dieser Schritt ist auch eine gute Möglichkeit all sein Geld zu verlieren, man sollte also vorsichtig vorgehen! Zum Beispiel sollte man nie versuchen die Adresse irgendwo abzutippen, sondern sie immer kopieren oder mittels QR-Code einscannen. Wenn man sich unsicher ist kann man auch erst einmal einen kleinen Betrag transferieren um bei Erfolg dann den Rest zu schicken. 
+Um die Bitcoins von der Exchange in die eigene Wallet zu transferieren, nimmt man die von der Wallet generierte Adresse, die man dann bei der Exchange als Ziel des Transfers eingibt. Dieser Schritt ist auch eine gute Möglichkeit all sein Geld zu verlieren, man sollte also vorsichtig vorgehen! Zum Beispiel sollte man nie versuchen die Adresse irgendwo abzutippen, sondern sie immer kopieren oder mittels QR-Code einscannen. Wenn man sich unsicher ist kann man auch erst einmal einen kleinen Betrag transferieren um bei Erfolg dann den Rest zu schicken.
+
+Wenn ich einen Transfer zu meiner Wallet mache, kopiere ich die Adresse in meiner Wallet, füge sie bei der Exchange ein und prüfe dann noch einmal die ersten und letzten drei Ziffern. Damit stelle ich sicher, dass ich nicht ausversehen einen Teil nicht mitkopiert habe.
 
 Auf der empfangenden Wallet sollte man nach einigen Minuten sehen können, dass sich Transfervorgang abspielt, auch wenn er evtl. noch nicht abgeschlossen ist. Abgeschlossen ist der Vorgang erst wenn genügend Teilnehmer aus dem Bitoin-Netz den Transfer bestätigt haben.
 
 Bitcoins zu transferieren ist auf jeden Fall spannend!
 
 
+### Anmerkungen
 
-_bei den mit * markierten Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke!)_
+- _bei den mit * markierten Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke!)_
+- _Update vom 4. Dezember: Ich habe einen Teil über Hardware-Wallets hinzugefügt!_
