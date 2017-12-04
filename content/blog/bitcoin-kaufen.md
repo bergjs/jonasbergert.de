@@ -60,7 +60,7 @@ Wenn man auf Nummer sicher gehen möchte, dann empfiehlt sich eine so genannte H
 ![Ledger Nano S Hardware Wallet](https://www.ledgerwallet.com/images/products/lns/ledger-nano-s-plug-large.png#center)
 <p style="text-align: center;">*Eine Hardware Wallet*</p>
 
-Hierbei empfehle ich die [Ledger Wallet Nano S](https://www.ledgerwallet.com/r/f672), eine simple Hardware-Wallet, die es schon für ca. 80€ gibt. Der Versand aus Frankreich geht mittlerweile auch eingermaßen schnell. 
+Hierbei empfehle ich die [Ledger Wallet Nano S\*](https://www.ledgerwallet.com/r/f672), eine simple Hardware-Wallet, die es schon für ca. 80€ gibt. Der Versand aus Frankreich geht mittlerweile auch eingermaßen schnell. 
 
 
 
@@ -84,5 +84,5 @@ Bitcoins zu transferieren ist auf jeden Fall spannend!
 
 ### Anmerkungen
 
-- _bei den mit * markierten Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke!)_
+- _bei den mit * markierten Links handelt es sich um Affilate-Links (d.h. ich bekomme eine kleine Provision wenn ihr euch darüber anmeldet. Danke! Bei Coinbase kriegt ihr sogar auch etwas!)_
 - _Update vom 4. Dezember: Ich habe einen Teil über Hardware-Wallets hinzugefügt!_
