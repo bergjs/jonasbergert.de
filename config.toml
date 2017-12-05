@@ -11,7 +11,7 @@ title               = "Jonas Bergert"
 pygmentsuseclasses  = true
 # disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-89635711-1"
+googleAnalytics     = "UA-110693069-1"
 
 [permalinks]
 blog  = "blog/:slug/"
